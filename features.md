@@ -2,6 +2,7 @@
 
 Welcome, future software engineering rock stars! 🌟 Here are some exciting project options to level up your skills and create an amazing User Management System. Each project focuses on different aspects of the system and comes with its own set of challenges and learning opportunities. Remember, the goal is to build upon the existing system and showcase your abilities in a way that aligns with the project requirements.
 
+
 ## 1. 🌄 Profile Picture Upload with Minio
 
 - **Description:** Enhance the user profile management functionality by allowing users to upload and store their profile pictures using Minio, a distributed object storage system.
