@@ -43,3 +43,6 @@ The three key Takeaways are Containerization, SQL Optimization, and Data Analyti
 ## Link to Docker Hub Repository
 https://hub.docker.com/r/rithikakesharaju/userretentionanalytics/general   
 
+## Link to the new feature implemented:
+https://github.com/rithika955/final_project/tree/main/UserRetentionAnalytics
+
