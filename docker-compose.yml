@@ -4,7 +4,7 @@ services:
   postgres:
     image: postgres:16.2
     environment:
-      POSTGRES_DB: myappdb
+      POSTGRES_DB: production
       POSTGRES_USER: user
       POSTGRES_PASSWORD: password
     healthcheck:
